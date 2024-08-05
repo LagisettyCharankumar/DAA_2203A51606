@@ -5,3 +5,5 @@ Selection sort : https://github.com/LagisettyCharankumar/DAA_2203A51606/blob/mai
 WEEK 1 assignment 1 : https://github.com/LagisettyCharankumar/DAA_2203A51606/blob/main/Week-1_1%20DAA.c
 
 WEEK 1 assignment 2 : https://github.com/LagisettyCharankumar/DAA_2203A51606/blob/main/Week-1_2%20DAA.c
+
+WEEK 1 assignment 3 : https://github.com/LagisettyCharankumar/DAA_2203A51606/blob/main/Week-1_3%20DAA.c
