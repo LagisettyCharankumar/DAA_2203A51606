@@ -14,5 +14,8 @@ WEEK 2 assignment 3 : https://github.com/LagisettyCharankumar/DAA_2203A51606/blo
 
 Binary Search : https://github.com/LagisettyCharankumar/DAA_2203A51606/blob/main/Binary%20Search-DAA.c
 
+Binary Search Example : https://github.com/LagisettyCharankumar/DAA_2203A51606/blob/main/Ex%20Aurn%20USB%20BS.c
+
+
 
 
