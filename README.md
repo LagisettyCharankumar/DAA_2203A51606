@@ -12,4 +12,7 @@ Insertion sort : https://github.com/LagisettyCharankumar/DAA_2203A51606/blob/mai
 
 WEEK 2 assignment 3 : https://github.com/LagisettyCharankumar/DAA_2203A51606/blob/main/Week2-3_DAA%20Ass.c
 
+Binary Search : https://github.com/LagisettyCharankumar/DAA_2203A51606/blob/main/Binary%20Search-DAA.c
+
+
 
