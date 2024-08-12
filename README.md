@@ -16,6 +16,9 @@ Binary Search : https://github.com/LagisettyCharankumar/DAA_2203A51606/blob/main
 
 Binary Search Example : https://github.com/LagisettyCharankumar/DAA_2203A51606/blob/main/Ex%20Aurn%20USB%20BS.c
 
+Merge Sort : https://github.com/LagisettyCharankumar/DAA_2203A51606/blob/main/Merge%20Sort.c
+
+
 
 
 
